@@ -4,6 +4,4 @@ function sayBonjour() {
     console.log("bonjour");
 }
 
-function hello() {
-
-};
+function hello() {};
